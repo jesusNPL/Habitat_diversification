@@ -154,7 +154,7 @@ demonGeoHiSSE <- function(model, phy, ranges, f = c(1, 1, 1), number_of_trees, o
     }
     
     ###############################################################################
-    ## Second block of anagenetic modelels MuSSE-like.
+    ## Second block of anagenetic models MuSSE-like.
     ## These are very liberal models. They are really GeoSSE-like without cladogenetic events
     ###############################################################################
     
