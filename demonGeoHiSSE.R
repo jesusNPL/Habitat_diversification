@@ -2,7 +2,7 @@
 
 # demonGeoHiSSE is a function to perform analysis of geographical-state diversification
 # based on the GeoHiSSE model, see further details in Caetano et al. 2018 Evolution (https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13602) 
-# Also, this function is a modelification of the function "evaluate.modelels" of Caetano et al. 2018
+# Also, this function is a modification of the function "evaluate.modelels" of Caetano et al. 2018
 # available at https://figshare.com/collections/Data_for_Hidden_state_modelels_improve_state-dependent_diversification_approaches_including_biogeographical_modelels/4069580/2
 
 demonGeoHiSSE <- function(model, phy, ranges, f = c(1, 1, 1), number_of_trees, outfile){
