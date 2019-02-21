@@ -1,7 +1,8 @@
 ##### Function to perform GeoHiSSE analysis on a multiPhylo object #####
 
 # demonGeoHiSSE is a function to perform analysis of geographical-state diversification
-# based on the GeoHiSSE model, see further details in Caetano et al. 2018 Evolution (https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13602) 
+# based on the GeoHiSSE model.
+# see details in Caetano et al. 2018 Evolution (https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13602) 
 # Also, this function is a modification of the function "evaluate.models" of Caetano et al. 2018
 # available at https://figshare.com/collections/Data_for_Hidden_state_models_improve_state-dependent_diversification_approaches_including_biogeographical_models/4069580/2
 
